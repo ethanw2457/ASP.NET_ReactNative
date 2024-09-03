@@ -37,3 +37,5 @@ npm install
 ```
 npm start
 ```
+Name:
+Ethan Wang
